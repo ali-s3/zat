@@ -1,0 +1,9 @@
+#1C1E22--NAVBAR-footer
+
+#CE1B28---MAIN-RED-COLOR
+
+#252A37--TEXT-HEADING-COLORS
+#929292--CONTENT-COLOR
+NOTE: In main sliders text color should be white.
+
+#1F1F1F--CONTACT US-SECTION
